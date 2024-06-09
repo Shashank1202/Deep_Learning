@@ -4,6 +4,6 @@ A clean, simple and readable implementation of CycleGAN in PyTorch. I've tried t
 ## Results
 The model was trained on Zebra<->Horses dataset.
 
-|1st column: Input || 2nd column: Generated |
+|1st column: Input / 2nd column: Generated |
 |:---:|
 |![](generated_image/Result.png)|
