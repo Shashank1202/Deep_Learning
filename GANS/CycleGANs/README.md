@@ -6,4 +6,4 @@ The model was trained on Zebra<->Horses dataset.
 
 |1st column: Input / 2nd column: Generated / 3rd row: Re-converted|
 |:---:|
-|![](results/horse_results.png)|
+|![](results/results.png)|
