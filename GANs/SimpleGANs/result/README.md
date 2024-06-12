@@ -2,4 +2,4 @@
 
 ## Result
 
-![Fake|Real](result/final.png)
+![Fake|Real](final.png)
