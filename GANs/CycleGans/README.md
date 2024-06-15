@@ -2,4 +2,4 @@
 
 #Result.
 
-![Final Resul](saved_image/result.jpg)
+![Final Resul](saved_images/result.jpg)
